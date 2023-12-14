@@ -3,11 +3,10 @@
 		"name": "Монумент дружбы народов",
 		"replaces": "Monument",
 		"uniqueTo": "Удмуртия",
-		"cost": 120,
+		"cost": 50,
 		"happiness": 2,
 		"culture": 2,
-		"science": 12,
-		"maintenance": 96,
+		"maintenance": 1,
 		"isNationalWonder": true
 	},
 	{
