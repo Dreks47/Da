@@ -11,7 +11,7 @@
 		"isNationalWonder": true
 	},
 	{
-		"name": "Breeders",
+		"name": "ИжТоргМетал",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Удмуртия",
 		"cost": 80,
