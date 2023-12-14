@@ -3,7 +3,7 @@
 		"name": "Удмуртия",
 		"leaderName": "Бричалов",
 		"adjective": ["удмуртский"],
-		"startBias": ["Snow"],
+		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Здарова!",
