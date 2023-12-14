@@ -1,16 +1,15 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Бурановская барббабушка",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
+		"uniqueTo": "Удмуртия",
+		"replaces": "Composite Bowman",
+		"movement": 3,
+		"strength": 7,
+		"rangedStrength": 10,
 		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"cost": 75,
+		"requiredTech": "Archery",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
