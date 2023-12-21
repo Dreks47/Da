@@ -7,8 +7,8 @@
 		"happiness": 2,
 		"culture": 2,
 		"maintenance": 1,
-		"isNationalWonder": true,
-		"Free Technologies"
+		"isNationalWonder": true
+
 
 	},
 	{
@@ -20,5 +20,27 @@
 		"production": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
-	}
+	},
+	{
+		"name": "Ижевский зоопарк",
+		"replaces": "Colosseum",
+		"uniqueTo": "Удмуртия",
+		"cost": 110,
+		"happiness": 3,
+		"culture": 1,
+		"maintenance": 1,
+		"isNationalWonder": true
+
+
+	},
+	{
+		"name": "ИЭМЗ КУПОЛ",
+		"replaces": "Factoy",
+		"uniqueTo": "Удмуртия",
+		"cost": 360,
+		"Production": 8,
+		"isNationalWonder": true
+
+
+	},
 ]
