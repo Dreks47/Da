@@ -4,7 +4,7 @@
 		"replaces": "Monument",
 		"uniqueTo": "Удмуртия",
 		"cost": 50,
-		"happiness": 2,
+		"happiness": 1,
 		"culture": 2,
 		"maintenance": 1,
 		"isNationalWonder": true
@@ -38,7 +38,8 @@
 		"replaces": "Factoy",
 		"uniqueTo": "Удмуртия",
 		"cost": 360,
-		"Production": 8,
+		"Production": 7,
+		"maintenance": 3,
 		"isNationalWonder": true
 
 
