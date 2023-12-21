@@ -18,7 +18,6 @@
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"production": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
 	},
 	{
@@ -35,7 +34,7 @@
 	},
 	{
 		"name": "ИЭМЗ КУПОЛ",
-		"replaces": "Factoy",
+		"replaces": "Factory",
 		"uniqueTo": "Удмуртия",
 		"cost": 360,
 		"Production": 7,
