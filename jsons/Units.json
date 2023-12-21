@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Бурановская барббабушка",
+		"name": "Бурановская бабабушка",
 		"unitType": "Ranged",
 		"uniqueTo": "Удмуртия",
 		"replaces": "Composite Bowman",
@@ -8,9 +8,36 @@
 		"strength": 7,
 		"rangedStrength": 10,
 		"range": 2,
-		"cost": 75,
+		"cost": 70,
 		"requiredTech": "Archery",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
-	}
+	},
+	{
+		"name": "Урановская бабабушка",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Удмуртия",
+		"replaces": "Musketman",
+		"movement": 3,
+		"strength": 50,
+		"rangedStrength": 50,
+		"range": 3,
+		"cost": 350,
+		"requiredResource": "Uranium",
+		"requiredTech": "Gunpowder",
+		"attackSound": "Modern Armor"
+	},
+	{
+		"name": "АК 47",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Удмуртия",
+		"movement": 2,
+		"strength": 20,
+		"rangedStrength": 20,
+		"range": 2,
+		"cost": 250,
+		"requiredResource": "Uranium",
+		"requiredTech": "Gunpowder",
+		"attackSound": "Minuteman"
+	},
 ]
