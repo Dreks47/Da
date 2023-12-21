@@ -6,6 +6,7 @@
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Scientific",
 		"uniques": ["[+1 Production] from every [Hill]"],
+		"icon": ["Udmurtia"]
 
 		
 		"startIntroPart1": "Здарова!",
