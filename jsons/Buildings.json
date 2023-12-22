@@ -37,7 +37,7 @@
 		"replaces": "Factory",
 		"uniqueTo": "Удмуртия",
 		"cost": 360,
-		"Production": 7,
+		"production": 7,
 		"maintenance": 3,
 		"isNationalWonder": true
 
