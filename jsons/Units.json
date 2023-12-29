@@ -24,7 +24,7 @@
 		"range": 5,
 		"cost": 3000,
 		"requiredResource": "Uranium",
-		"requiredTech": "Gunpowder",
+		"requiredTech": "Archery",
 		"attackSound": "Modern Armor"
 	}
 ]
